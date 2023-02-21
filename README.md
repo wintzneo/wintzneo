@@ -21,7 +21,7 @@ tout en bénéficiant de l’expérience en entreprise ✨.
 
 ### Mes passe temps :
 
-- 💻  J'adore explorer de nouvelles technologiques et parfaire mes créations.
+- 💻  J'adore explorer de nouvelles technologies et parfaire mes créations.
 - 📰  M'instruire de nouveaux contenus enrichissants.
 - 🍕  rencontres et événements technologiques.
 #
