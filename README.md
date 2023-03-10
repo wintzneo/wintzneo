@@ -3,7 +3,7 @@
 Me voici ! 
 
 [![Badge Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-wintz-0786a414a/)
-[![Badge Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wintzneo.myportfolio.com/)
+[![Badge Site](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://wintzneo.myportfolio.com/)
 https://wintzneo.myportfolio.com/
 
 ### Je suis très heureux de vous voir ici 😄 !
