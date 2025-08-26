@@ -7,12 +7,12 @@ Me voici !
 
 ### Je suis très heureux de vous voir ici 😄 !
 
-Je suis un passionné d' UX/UI Design et un apprenant qui est toujours prêt à utiliser ses compétences pour faire avancer les missions d'une entreprise,
+Je suis un passionné d' UX/UI Design qui est toujours prêt à utiliser ses compétences pour faire avancer les missions d'une entreprise,
 adorant le monde de la programmation et du développement des applications, j'ai pu acquérir beaucoup d'expériences professionnelles dans le monde du graphisme et du développement en général 💡.
 
 ### Un point sur moi :
 
-- 🛠   Je travaille actuellement avec la suite complète d'Adobe, notamment Adobe XD
+- 🛠   Je travaille actuellement avec la suite complète d'Adobe, Figma, Miro et j'en passe
 - 🚀  Dans le domaine du développement, je suis spécialisé sur le front-end
 - 📫  Pour me joindre : wintzneo@gmail.com
 
