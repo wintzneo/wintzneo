@@ -10,10 +10,6 @@ Me voici !
 Je suis un passionné d' UX/UI Design et un apprenant qui est toujours prêt à utiliser ses compétences pour faire avancer les missions d'une entreprise,
 adorant le monde de la programmation et du développement des applications, j'ai pu acquérir beaucoup d'expériences professionnelles dans le monde du graphisme et du développement en général 💡.
 
-Aujourd’hui, à la recherche d’une entreprise pour pouvoir suivre ma formation en UX/UI Design en alternance, ceci serait un bon moyen de parfaire mes études
-tout en bénéficiant de l’expérience en entreprise ✨.
-
-
 ### Un point sur moi :
 
 - 🛠   Je travaille actuellement avec la suite complète d'Adobe, notamment Adobe XD
